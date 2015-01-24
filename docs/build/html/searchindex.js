@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:1,search:1,kevel:1,modul:1,content:1,multilanguag:0,thi:[0,2],test:[],page:[0,1,2]},objtypes:{},objnames:{},filenames:["test","index","kevell"],titles:["test","Welcome to kevelltest&#8217;s documentation!","Kevells"],objects:{},titleterms:{welcom:1,kevel:2,kevelltest:1,indic:1,tabl:1,test:0,document:1}})
